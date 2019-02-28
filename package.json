@@ -11,8 +11,8 @@
   },
   "dependencies": {
     "react": "16.6.3",
-    "react-native": "0.58.1",
-    "realm": "^2.22.0"
+    "react-native": "0.58.5",
+    "realm": "^2.24.0"
   },
   "devDependencies": {
     "@callstack/eslint-config": "^3.0.2",
